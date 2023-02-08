@@ -12,7 +12,7 @@ Route::get('/t', function () {
 });
 
 Route::get('/', function () {
-    return view('vista');
+    return view('tarea');
 });
 
 
